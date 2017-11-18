@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static com.kztma.delivering.util.SequrityUtil.sha256Decode;
+import static com.kztma.delivering.util.SecurityUtil.sha256Decode;
 
 /**
  * Created by cccc on 11/18/2017.
